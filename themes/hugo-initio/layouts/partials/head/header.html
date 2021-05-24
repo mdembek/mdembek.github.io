@@ -1,3 +1,19 @@
+<style>
+  .flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .flex-container > div {
+    width: 45px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+</style>
+
 <header id="header">
   <div id="head" class="parallax" data-parallax-speed="2" style="background-image:url('{{ .Site.BaseURL }}{{ .Site.Params.banner }}');">
     <h1 id="logo" class="text-center">
@@ -6,6 +22,11 @@
       <span class="tagline">{{ .Site.Params.description }}<br>
         <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
       </span>
+
+      <div class="flex-container">
+        <div><a href="https://www.linkedin.com/in/michael-dembek/"> <i class="fab fa-linkedin"></i></a></div>
+        <div><a href="mailto:michaelkdembek@gmail.com"> <i class="fas fa-envelope-square"></i></a></div>
+      </div>
    </h1>
 </div>
 
