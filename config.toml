@@ -6,7 +6,7 @@ theme = "hugo-initio"
 [params]
     name = "Michael K. Dembek"
     description = "President of Canadian Polish Congress BC"
-    email = "michaelkdembek@gmail.com"
+    email = ""
     phone = ""
     address = ""
     year = 2021
