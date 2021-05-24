@@ -8,7 +8,7 @@ theme = "hugo-initio"
     description = "President of Canadian Polish Congress BC"
     email = "michaelkdembek@gmail.com"
     phone = ""
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    address = ""
     year = 2017
     avatar = "images/guy.jpg"
     avatarclass = "circle"
@@ -34,9 +34,9 @@ theme = "hugo-initio"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "news"
+    name = "posts"
     url = "/post/"
-    weight = 2
+    weight = 6
 [[menu.main]]
     name = "contact me"
     url = "/contact/"
