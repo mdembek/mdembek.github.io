@@ -1,11 +1,5 @@
-+++
-menu = "main"
-title = "About"
-type = "about"
-weight = 3
-+++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+Michael Dembek is a passonte community volenteeur. He has actively participated in his local community and the Polish-Canadian community. He dedicated his time to building a more robust, better, more inclusive society.
 
 ![about](../images/mac.jpg)
 
