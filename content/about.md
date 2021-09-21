@@ -1,3 +1,9 @@
++++
+menu = "main"
+title = "About"
+type = "about"
+weight = 3
++++
 
 Michael Dembek is a passonte community volenteeur. He has actively participated in his local community and the Polish-Canadian community. He dedicated his time to building a more robust, better, more inclusive society.
 
