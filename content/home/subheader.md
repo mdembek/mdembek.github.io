@@ -5,15 +5,9 @@ title = ""
 
 # Michael Dembek
 
-[I'm an inline-style link](https://www.google.com)
+My name is Michael Kristian Dembek. I am a father-to-be, a husband, and a dedicated community volunteer. I am the elected President of the Canadian Polish Congress in British Columbia and the lead Project Manager for Barka Canada. I've previously been involved with great organizations such as Migrant Info Point as an anti-discrimination trainer, volunteered at the Surrey Food Bank and my local RCMP district. I got involved in my community because I'm concerned for my family's future and the kind of community they're going to inherit. It's my goal to lead a community where freedom, inclusion, and culture are accepted.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-I'm Michael Dembek
+Join me in making our community better.
 
 
-Welcome to my website!!!
-
-
-asdasdas
 
